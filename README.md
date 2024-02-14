@@ -1,5 +1,5 @@
 ### 
-<h3 align="center">Hi! I'm Romina! A Data Analytics Engineer based in the Washington, D.C. Metro Area</h3>
+<h3 align="left">Hi, I'm Romina! A Data Analytics Engineer based in the Washington, D.C. Metro Area</h3>
 
 <h3 align="left">I am AWS and Google Cloud Certified</h3>
 <p align="left"> <a href="[https://aws.amazon.com](https://credly.com/badges/3f86ce53-1ce7-4549-a988-30a322fdd43f)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.credential.net/0ea62b82-6a8e-414e-a5d0-b1d9d73b7ee6" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
